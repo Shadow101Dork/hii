@@ -1,0 +1,1 @@
+/give @p minecraft:diamond_pickaxe 1 0 {Unbreakable:1,display:{Name:"Ultimate Pickaxe"},ench:[{id:19,lvl:200},{id:20,lvl:200},{id:32,lvl:200},{id:33,lvl:200},{id:34,lvl:200},{id:35,lvl:200},{id:51,lvl:200},{id:70,lvl:200}]}
